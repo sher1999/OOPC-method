@@ -1,13 +1,23 @@
 ﻿User user = new User();
-user.Firstname="Sherzod";
-user.Lastname="Ishankulov";
-user.Username="sher1111";
-user.Password="711112607";
+System.Console.WriteLine("User");
+System.Console.Write("Firstname : ");
+user.Firstname=Convert.ToString(Console.ReadLine());
+
+System.Console.Write("Lastname : ");
+user.Lastname=Convert.ToString(Console.ReadLine());
+System.Console.Write("Username : ");
+user.Username=Convert.ToString(Console.ReadLine());
+System.Console.Write("Password : ");
+user.Password=Convert.ToString(Console.ReadLine());
 user.IsLoggedOn=true;
 
  System.Console.WriteLine();
  System.Console.WriteLine("Login :");
-user.Login("sher1111", "711112607");
+ System.Console.Write("Username : ");
+ string username=Convert.ToString(Console.ReadLine());
+ System.Console.Write("Password : ");
+ string password=Convert.ToString(Console.ReadLine());
+user.Login(username, password);
 
 System.Console.WriteLine();
 System.Console.WriteLine("Logout :");
