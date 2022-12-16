@@ -1,0 +1,15 @@
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.csproj.AssemblyReference.cache
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.AssemblyInfoInputs.cache
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.AssemblyInfo.cs
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week1\15.12.22\HomeWork2\bin\Debug\net7.0\HomeWork2.exe
+D:\coftclub\C#\week1\15.12.22\HomeWork2\bin\Debug\net7.0\HomeWork2.deps.json
+D:\coftclub\C#\week1\15.12.22\HomeWork2\bin\Debug\net7.0\HomeWork2.runtimeconfig.json
+D:\coftclub\C#\week1\15.12.22\HomeWork2\bin\Debug\net7.0\HomeWork2.dll
+D:\coftclub\C#\week1\15.12.22\HomeWork2\bin\Debug\net7.0\HomeWork2.pdb
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.dll
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\refint\HomeWork2.dll
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.pdb
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\HomeWork2.genruntimeconfig.cache
+D:\coftclub\C#\week1\15.12.22\HomeWork2\obj\Debug\net7.0\ref\HomeWork2.dll
