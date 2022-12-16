@@ -9,7 +9,7 @@ System.Console.Write("Username : ");
 user.Username=Convert.ToString(Console.ReadLine());
 System.Console.Write("Password : ");
 user.Password=Convert.ToString(Console.ReadLine());
-user.IsLoggedOn=true;
+
 
  System.Console.WriteLine();
  System.Console.WriteLine("Login :");
@@ -21,7 +21,7 @@ user.Login(username, password);
 
 System.Console.WriteLine();
 System.Console.WriteLine("Logout :");
-user.Logout();
+
 
 System.Console.WriteLine();
 System.Console.WriteLine("GetFullInfo");

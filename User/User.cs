@@ -9,6 +9,7 @@ public class User{
       
         if(Username==username && Password==password){
             Console.WriteLine("User logged successfully");
+            IsLoggedOn=true;
         Console.WriteLine(IsLoggedOn);
         }
         else{
@@ -24,7 +25,8 @@ public class User{
     }
 
     public string GetFullInfo(){
-       return $"{Firstname} {Lastname} - {IsLoggedOn=true}";
+        
+       return $"{Firstname} {Lastname} - {IsLoggedOn}";
     }
 
 
